@@ -1,0 +1,20 @@
+/* Nothing here yet */
+.text-right {
+    text-align: right !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+footer {
+	margin-top: 15px;
+	background-color: #222;
+	padding: 10px;
+	color: #fff;
+}
+footer a:hover {
+	text-decoration: none;
+}
+th {
+	text-align: center;
+}
