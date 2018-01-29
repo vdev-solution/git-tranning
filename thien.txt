@@ -1,1 +1,3 @@
 Thien
+nam sinh: 1993
+thuc tap tai cty Vdev
